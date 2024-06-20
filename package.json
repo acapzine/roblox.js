@@ -20,9 +20,13 @@
     "url": "https://u1terior.net"
   },
   "license": "MIT",
-  "dependencies": {
-    "typescript": "^5.4.5"
-  },
   "type": "module",
-  "readme": "README.md"
+  "readme": "README.md",
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acapzine/roblox.js"
+  }
 }
